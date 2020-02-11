@@ -1,3 +1,4 @@
+
 def func_2_3():
     # 分隔符打印多个字符串
     str0 = "123"
@@ -10,5 +11,5 @@ def func_2_3():
     print("%s*%s*end!" % (str0, str1)) # 手动指定分隔符
     
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     func_2_3()
