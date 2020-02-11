@@ -1,0 +1,1 @@
+Learning python primary usage refers to https://pythonhowto.readthedocs.io/zh_CN/latest.

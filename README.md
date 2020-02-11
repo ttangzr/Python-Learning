@@ -1,1 +1,1 @@
-first commit
+Learning Python since Feb.11 in 2020.
