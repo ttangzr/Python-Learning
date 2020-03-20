@@ -128,6 +128,9 @@ def func_4_10():
     # 新子串替换旧子串
     str0 = "old old old old"
     print(str0.replace("old", "new"))
+    # 利用re正则表达式模块来整体替换
+    str0 = '\r\nhello 1213 \nworld'
+    print(re.sub('[\r\n\t23]', '', str0))
 
 
 def func_4_11():
