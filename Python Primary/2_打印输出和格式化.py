@@ -153,7 +153,7 @@ def func_2_9():
     print("repr() shows quotes: {!r}; str() doesn't: {!s}"
         .format('test1', 'test2'))                  # out = "repr() shows quotes: 'test1'; str() doesn't: test2"
     # format 缩写形式
-    print(f'My salary is {salary:10.2f}')
+    print('My salary is {salary:10.2f}')
 
 
 if __name__ == "__main__":
